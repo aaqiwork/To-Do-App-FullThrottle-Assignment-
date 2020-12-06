@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few screenshots of the app:
 
-<img src='login-image.jpg' width=300 />
+<img src='login-image.jpeg' width=300 />
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
